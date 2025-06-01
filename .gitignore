@@ -10,6 +10,7 @@ __pycache__/
 .Python
 build/
 */pex_build/*
+*.pex
 develop-eggs/
 dist/
 downloads/
